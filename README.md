@@ -1,4 +1,4 @@
 # riverpod_demo
 
-A new Flutter riverpod project.
+a flutter riverpod demo app using MVVM architecture
 
